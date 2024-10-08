@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi there! 👋 I'm [Your Name]
-
+# Hi there! 👋 I'm Md Safi Maaz
 ## 👨‍💻 About Me
 I'm a passionate software developer with a focus on Web development. I love building projects that solve real-world problems and contribute to open-source.
 
