@@ -28,7 +28,7 @@ Currently open to **Frontend Developer** opportunities.
 
 ## 💼 Featured Projects
 
-### [DRAFTLY](https://github.com/SafiMaaz01/draftly) — Real-Time Full-Stack Blogging Platform
+### [DRAFTLY](https://draftly-delta.vercel.app/) — Real-Time Full-Stack Blogging Platform
 A modern blogging engine with real-time content updates, live user presence, and instant interactions.
 
 **Tech:** Next.js 16, Convex, Better Auth, Tailwind CSS v4, shadcn/ui, TipTap
@@ -39,7 +39,7 @@ A modern blogging engine with real-time content updates, live user presence, and
 
 ---
 
-### [Portfolio](https://github.com/SafiMaaz01/portfolio) — Modern Portfolio with Headless CMS
+### [Portfolio](https://safimaaz01portfolio.vercel.app/) — Modern Portfolio with Headless CMS
 A high-performance, SEO-optimized portfolio website with dynamic content management.
 
 **Tech:** Next.js 16, React 19, TypeScript, Sanity CMS, Tailwind CSS, Framer Motion
@@ -48,15 +48,6 @@ A high-performance, SEO-optimized portfolio website with dynamic content managem
 - Implemented Clerk authentication and protected routes
 - Designed interactive UI with dark mode, Framer Motion animations, and responsive layouts
 
----
-
-## 📈 GitHub Stats
-
-![Md Safi Maaz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SafiMaaz01&show_icons=true&hide_title=true&count_private=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SafiMaaz01&layout=compact&theme=radical)
-
----
 
 ## 🎓 Education
 
@@ -68,7 +59,7 @@ A high-performance, SEO-optimized portfolio website with dynamic content managem
 ## 📫 Connect With Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/safimaaz01)
-- 🌐 [Portfolio Website](https://your-portfolio-url.vercel.app)
+- 🌐 [Portfolio Website](https://safimaaz01portfolio.vercel.app/)
 - 📧 safi.maaz01@gmail.com
 
 ---
